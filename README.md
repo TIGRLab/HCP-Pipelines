@@ -16,6 +16,11 @@ Discussion of HCP Pipeline usage and improvements can be posted to the
 hcp-users discussion list. Sign up for hcp-users at 
 [http://humanconnectome.org/contact/#subscribe][hcp-users-subscribe]
 
+# TIGRLab modifications
+
+This fork contains branches that modify the HCP pipelines for use on other datasets: 
+
+- `pnc`: [Philadelphia Neurodevelopmental Cohort](http://www.med.upenn.edu/bbl/projects/pnc/PhiladelphiaNeurodevelopmentalCohort.shtml)
 
 <!-- References -->
 
